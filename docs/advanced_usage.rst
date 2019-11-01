@@ -281,7 +281,7 @@ Where environment variables are not used for configuring the tracer, the instruc
 
 Resolving deprecation warnings
 ------------------------------
-Before upgrading, it’s a good idea to resolve any deprecation warnings raised by your project.
+Before upgrading, it's a good idea to resolve any deprecation warnings raised by your project.
 These warnings must be fixed before upgrading, otherwise the ``ddtrace`` library
 will not work as expected. Our deprecation messages include the version where
 the behavior is altered or removed.
